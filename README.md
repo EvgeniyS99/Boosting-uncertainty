@@ -1,4 +1,4 @@
-# Abstract
+# Introduction
 This pet-project addresses the boosting uncertainty problem by using the implementation the virtual ensemble described in this article 
 [A. Ustimenko, L. Prokhorenkova and A. Malinin, Uncertainty in Gradient Boosting via Ensembles” (2020), arXiv preprint arXiv:2006.10562](https://arxiv.org/pdf/2006.10562v2.pdf).
 
